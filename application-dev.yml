@@ -1,1 +1,2 @@
-config: dev  version -10
+config:
+  info: version-2 hello!
